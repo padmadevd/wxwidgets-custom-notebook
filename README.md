@@ -1,4 +1,4 @@
-# Custom wxwidetgs notebook
+# Custom wxwidgets notebook
 
 * a very simple notebook control for wxwidgets.
 * features available are tab dragging, closing, indicating modified page, scrolling.
